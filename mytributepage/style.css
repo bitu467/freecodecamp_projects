@@ -1,0 +1,38 @@
+body {
+  background-color: antiquewhite;
+  /* padding: 10px; */
+}
+#main {
+}
+#title {
+  text-align: center;
+  text-shadow: 2px 2px 8px #ff0000;
+}
+#img-div {
+  background-color: rgb(87, 97, 97);
+  padding: 10px;
+  border-radius: 10px;
+}
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  margin: 0 auto;
+}
+#img-caption {
+  text-align: center;
+  font-size: 30px;
+}
+#tribute-info {
+  margin: 40px;
+  font-size: 20px;
+}
+#tribute-link {
+  font-size: 30px;
+  color: #b66d0d;
+  text-align: center;
+}
+footer {
+  text-align: center;
+}
